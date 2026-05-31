@@ -1,9 +1,9 @@
-**Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas
-**Disciplina:** Engenharia de Software
-**Período:** 2026.
-**Professor:** Mayllon Veras
-**Alunos:** Francisco Mailson, Francisco de Cássio, Mateus de Araujo, Rikelry Monteiro, Vitor Lopes
-**Time:** Cloud Hive
+**Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas  
+**Disciplina:** Engenharia de Software  
+**Período:** 2026.3  
+**Professor:** Mayllon Veras  
+**Alunos:** Francisco Mailson, Francisco de Cássio, Mateus de Araujo, Rikelry Monteiro, Vitor Lopes  
+**Time:** Cloud Hive  
 
 <h2 align="center">
 ESPECIFICAÇÕES DE REQUISITOS DE SOFTWARE (ERS)  
